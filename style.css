@@ -42,12 +42,20 @@ justify-content: center;
        width: 40px;
        max-width: 400px;
        height: 40px;
+       
 
     }
+    .date:hover{
+        background-color: bisque;
+        transition: ease-in-out .3s;
+    }
     .day{
-        width:30px;
+        width:40px;
         padding: 0px;
         height: 30px;
     }
-    
+    .container{
+        
+        background-image: url(./image/HD-wallpaper-colour-screen-colours-note-fe-blur-maroon-purple-color-mix.jpg);
+    }
 }
